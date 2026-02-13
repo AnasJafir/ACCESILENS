@@ -1,0 +1,8 @@
+{
+  "name": "AccessiLens",
+  "description": "Assistant d'accessibilité intelligent transformant la caméra en yeux pour les personnes malvoyantes via Gemini 3.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
